@@ -25,11 +25,13 @@
 | Project | Description |
 |--------|-------------|
 | [dillinger](https://github.com/joemccann/dillinger) | The last Markdown editor, ever. |
-| [x-bookmarks-pipeline](https://github.com/joemccann/x-bookmarks-pipeline) | Multi-LLM pipeline that ingests X bookmarks, classifies content, extracts structured data from charts, and generates executable Pine Script strategies with caching and parallel execution. |
 | [radon](https://github.com/joemccann/radon) | Market structure reconstruction engine for convex opportunities across dark pool flow, vol surfaces, and cross-asset positioning. |
+| [pi-pdf](https://github.com/joemccann/pi-pdf) | PDF manipulation, processing, and management toolkit for Pi coding agent |
+| [pi-canvas-design](https://github.com/joemccann/pi-canvas-design) | Create museum-quality visual art and design philosophies expressed as .png and .pdf canvases using pi. |
 | [specteron](https://github.com/joemccann/specteron) | Chrome DevTools Protocol automation platform with scheduled execution and no sandbox constraints. |
 | [market-data-warehouse](https://github.com/joemccann/market-data-warehouse) | Local-first financial data warehouse for universe-scale datasets. |
 | [doob](https://github.com/joemccann/doob) | Quant research + backtesting CLI using local parquet data (no external price APIs). |
+| [x-bookmarks-pipeline](https://github.com/joemccann/x-bookmarks-pipeline) | Multi-LLM pipeline that ingests X bookmarks, classifies content, extracts structured data from charts, and generates executable Pine Script strategies with caching and parallel execution. |
 | [sift](https://github.com/joemccann/sift) | Native macOS app for exploring parquet + DuckDB via a chat-first interface. |
 | [vibepad](https://github.com/joemccann/vibepad) | Developer-focused Chrome new tab with JSON + Markdown editing. |
 | [humanize](https://github.com/joemccann/humanize) | macOS menu bar app that rewrites AI text into natural human prose. |
