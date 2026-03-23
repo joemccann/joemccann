@@ -28,6 +28,7 @@
 | [radon](https://github.com/joemccann/radon) | Market structure reconstruction engine for convex opportunities across dark pool flow, vol surfaces, and cross-asset positioning. |
 | [pi-pdf](https://github.com/joemccann/pi-pdf) | PDF manipulation, processing, and management toolkit for Pi coding agent |
 | [pi-canvas-design](https://github.com/joemccann/pi-canvas-design) | Create museum-quality visual art and design philosophies expressed as .png and .pdf canvases using pi. |
+| [pi-exa](https://github.com/joemccann/pi-exa) | Exa AI semantic search, similarity discovery, and content extraction for Pi coding agent. |
 | [specteron](https://github.com/joemccann/specteron) | Chrome DevTools Protocol automation platform with scheduled execution and no sandbox constraints. |
 | [ditto](https://github.com/joemccann/ditto) | A fast, pure-Rust CLI that converts Markdown to PDF. |
 | [market-data-warehouse](https://github.com/joemccann/market-data-warehouse) | Local-first financial data warehouse for universe-scale datasets. |
